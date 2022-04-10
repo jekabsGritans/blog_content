@@ -5,25 +5,6 @@
     <link>http://gritans.lv/</link>
     <description>Recent content on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 19:26:44 +0300</lastBuildDate><atom:link href="http://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second_test</title>
-      <link>http://gritans.lv/post/second_test/</link>
-      <pubDate>Sun, 10 Apr 2022 19:26:44 +0300</pubDate>
-      
-      <guid>http://gritans.lv/post/second_test/</guid>
-      <description>Hello 2 </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>http://gritans.lv/post/first/</link>
-      <pubDate>Sun, 10 Apr 2022 16:46:14 +0300</pubDate>
-      
-      <guid>http://gritans.lv/post/first/</guid>
-      <description>Hello World! Hey</description>
-    </item>
-    
+    <language>en</language><atom:link href="http://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
