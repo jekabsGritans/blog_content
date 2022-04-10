@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekabs</title>
+    <link>https://gritans.lv/</link>
+    <description>Recent content on Jekabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Apr 2022 16:46:14 +0300</lastBuildDate><atom:link href="https://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://gritans.lv/post/first/</link>
+      <pubDate>Sun, 10 Apr 2022 16:46:14 +0300</pubDate>
+      
+      <guid>https://gritans.lv/post/first/</guid>
+      <description>Hello World! Hey</description>
+    </item>
+    
+  </channel>
+</rss>
