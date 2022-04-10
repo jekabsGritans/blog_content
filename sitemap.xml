@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gritans.lv/post/first/</loc>
+    <loc>http://gritans.lv/post/first/</loc>
     <lastmod>2022-04-10T16:46:14+03:00</lastmod>
   </url><url>
-    <loc>https://gritans.lv/</loc>
+    <loc>http://gritans.lv/</loc>
     <lastmod>2022-04-10T16:46:14+03:00</lastmod>
   </url><url>
-    <loc>https://gritans.lv/post/</loc>
+    <loc>http://gritans.lv/post/</loc>
     <lastmod>2022-04-10T16:46:14+03:00</lastmod>
   </url><url>
-    <loc>https://gritans.lv/categories/</loc>
+    <loc>http://gritans.lv/categories/</loc>
   </url><url>
-    <loc>https://gritans.lv/tags/</loc>
+    <loc>http://gritans.lv/tags/</loc>
   </url>
 </urlset>

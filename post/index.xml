@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jekabs</title>
-    <link>https://gritans.lv/post/</link>
+    <link>http://gritans.lv/post/</link>
     <description>Recent content in Posts on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 16:46:14 +0300</lastBuildDate><atom:link href="https://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 16:46:14 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://gritans.lv/post/first/</link>
+      <link>http://gritans.lv/post/first/</link>
       <pubDate>Sun, 10 Apr 2022 16:46:14 +0300</pubDate>
       
-      <guid>https://gritans.lv/post/first/</guid>
+      <guid>http://gritans.lv/post/first/</guid>
       <description>Hello World! Hey</description>
     </item>
     
