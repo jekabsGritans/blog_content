@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekabs</title>
-    <link>http://gritans.lv/</link>
-    <description>Recent content on Jekabs</description>
+    <title>Posts on Jekabs</title>
+    <link>http://gritans.lv/post/</link>
+    <description>Recent content in Posts on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Apr 2022 17:26:21 +0300</lastBuildDate><atom:link href="http://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 17:26:21 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
       <link>http://gritans.lv/post/first/</link>
