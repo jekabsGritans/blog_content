@@ -6,7 +6,17 @@
     <description>Recent content on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Apr 2022 17:26:21 +0300</lastBuildDate><atom:link href="http://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 10:58:16 +0300</lastBuildDate><atom:link href="http://gritans.lv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploration &amp; Exploitation</title>
+      <link>http://gritans.lv/post/exploration-exploitation/</link>
+      <pubDate>Sun, 24 Apr 2022 10:58:16 +0300</pubDate>
+      
+      <guid>http://gritans.lv/post/exploration-exploitation/</guid>
+      <description>I myself first heard about the concept of exploration vs exploitation in a rationality camp. There, one morning, without any context we were presented with a simple card game, where
+ a full deck is non-randomly divided into 4 piles of 13 cards each. Each of the decks is then separately shuffled. Each red card has a value attached to it. Each turn we get to pick a card from whichever pile we desire.</description>
+    </item>
+    
     <item>
       <title>Hello, World!</title>
       <link>http://gritans.lv/post/first/</link>
