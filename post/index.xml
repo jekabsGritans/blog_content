@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Apr 2022 10:58:16 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 19:37:11 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From High School to the Big Leagues - My Experience at Machine Learning Prague</title>
+      <link>http://gritans.lv/post/mlprague-2222/</link>
+      <pubDate>Tue, 31 May 2022 19:37:11 +0300</pubDate>
+      
+      <guid>http://gritans.lv/post/mlprague-2222/</guid>
+      <description>Stanislav Fort, an OpenPhil AI Fellow Last week I went to Machine Learning Prague 2022 - &amp;ldquo;The biggest European conference about ML AI and Deep Learning.&amp;rdquo; Every year the event attracts a wide range of very interesting speakers mostly from industry, but also those leading cutting edge research on a daily basis. While the talks were interesting in and of themselves, I also knew that they would be freely and conveniently distributed online after the event meaning that if I was to go in-person, I better have a justification for the money spent and the necessary time off just to travel to and from the Czech Republic.</description>
+    </item>
+    
     <item>
       <title>Exploration &amp; Exploitation</title>
       <link>http://gritans.lv/post/exploration-exploitation/</link>
