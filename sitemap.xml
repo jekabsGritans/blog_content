@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gritans.lv/post/mlprague-2222/</loc>
-    <lastmod>2022-05-31T19:37:11+03:00</lastmod>
-  </url><url>
     <loc>http://gritans.lv/</loc>
-    <lastmod>2022-05-31T19:37:11+03:00</lastmod>
+    <lastmod>2022-06-27T12:44:39+03:00</lastmod>
+  </url><url>
+    <loc>http://gritans.lv/post/more-exploitation/</loc>
+    <lastmod>2022-06-27T12:44:39+03:00</lastmod>
   </url><url>
     <loc>http://gritans.lv/post/</loc>
+    <lastmod>2022-06-27T12:44:39+03:00</lastmod>
+  </url><url>
+    <loc>http://gritans.lv/post/mlprague-2222/</loc>
     <lastmod>2022-05-31T19:37:11+03:00</lastmod>
   </url><url>
     <loc>http://gritans.lv/post/exploration-exploitation/</loc>
