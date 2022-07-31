@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Jekabs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jun 2022 12:44:39 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 23:26:21 +0300</lastBuildDate><atom:link href="http://gritans.lv/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overfocusing on Instrumentals</title>
+      <link>http://gritans.lv/post/misdirecting-motivation/</link>
+      <pubDate>Sun, 31 Jul 2022 23:26:21 +0300</pubDate>
+      
+      <guid>http://gritans.lv/post/misdirecting-motivation/</guid>
+      <description>For a while I used to deal with perpetual brain fog. While it didn&amp;rsquo;t completely undermine my ambitions, it was bad enough to warrant a solution, so I spent the next year or so experimenting with various behavioural and supplemental interventions. While I did notice improvements in my overall mood after more-or-less sticking with some of them, when it came to working and concentrating on the difficult things for which I was ultimately trying to optimise, I was still in a constant state of zombie-ness.</description>
+    </item>
+    
     <item>
       <title>More Exploitation</title>
       <link>http://gritans.lv/post/more-exploitation/</link>
@@ -43,15 +52,6 @@ a full deck is non-randomly divided into 4 piles of 13 cards each. Each of the d
       
       <guid>http://gritans.lv/post/first/</guid>
       <description>Hey, I&amp;rsquo;m Jēkabs - a high-school student from Riga State Gymnasium No. 1, Latvia. Academically, I&amp;rsquo;m interested in mathematics, computer science and economics. I particularly enjoy working on projects that require me to combine models and intuitions from at least two of these and many other fields (of which I know too little of to concretely list them). I&amp;rsquo;ve also always liked tinkering with tech, whether that&amp;rsquo;s Lego robots in 2016 , or home automation and computer networks now.</description>
-    </item>
-    
-    <item>
-      <title>Overfocusing on Instrumentals</title>
-      <link>http://gritans.lv/post/misdirecting-motivation/</link>
-      <pubDate>Mon, 11 Apr 2022 17:26:21 +0300</pubDate>
-      
-      <guid>http://gritans.lv/post/misdirecting-motivation/</guid>
-      <description>For a while I used to deal with perpetual brain fog. While it didn&amp;rsquo;t completely undermine my ambitions, it was bad enough to warrant a solution, so I spent the next year or so experimenting with various behavioural and supplemental interventions. While I did notice improvements in my overall mood after more-or-less sticking with some of them, when it came to working and concentrating on the difficult things for which I was ultimately trying to optimise, I was still in a constant state of zombie-ness.</description>
     </item>
     
   </channel>
